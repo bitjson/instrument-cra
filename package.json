@@ -1,6 +1,6 @@
 {
-  "name": "@cypress/instrument-cra",
-  "version": "0.0.0-development",
+  "name": "@bitjson/instrument-cra",
+  "version": "1.1.1-patched",
   "description": "Little module for CRA applications to instrument code without ejecting react-scripts",
   "main": "index.js",
   "scripts": {
